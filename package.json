@@ -1,0 +1,16 @@
+{
+  "name": "cypress-bdd",
+  "version": "1.0.0",
+  "description": "latihan-cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ripki-Dev",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@cypress/browserify-preprocessor": "latest",
+    "cypress": "latest"
+  }
+}
